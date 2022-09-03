@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "188501269940",
+    "project_id": "wallpaper-app-c3897",
+    "storage_bucket": "wallpaper-app-c3897.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:188501269940:android:4923bb24d092745915e6e1",
+        "android_client_info": {
+          "package_name": "com.swastik.wallpaperadminpanel"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "188501269940-t07rb5f2mg9jumqksu7f8qd1263g22of.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBX35u_MSpAuLnQIxe2EZiU-LWEGPhtFao"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "188501269940-t07rb5f2mg9jumqksu7f8qd1263g22of.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:188501269940:android:216effaafe2721e915e6e1",
+        "android_client_info": {
+          "package_name": "com.swastik.wallpaperapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "188501269940-t07rb5f2mg9jumqksu7f8qd1263g22of.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBX35u_MSpAuLnQIxe2EZiU-LWEGPhtFao"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "188501269940-t07rb5f2mg9jumqksu7f8qd1263g22of.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
